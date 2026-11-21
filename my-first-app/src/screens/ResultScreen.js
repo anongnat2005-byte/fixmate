@@ -10,7 +10,7 @@ import {
 } from 'react-native';
 import { s } from '../styles';
 import Header from '../components/Header';
-import { RISK } from '../data/mockdata';
+import { RISK } from '../data/mockData';
 
 // หน้า 4: ผลการวิเคราะห์
 // solution = ข้อมูลวิธีแก้ของประเภทปัญหานี้ (มาจากฐานข้อมูล)

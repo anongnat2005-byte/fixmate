@@ -12,9 +12,9 @@ import {
 } from 'react-native';
 import * as ImagePicker from 'expo-image-picker';
 import { s } from '../styles';
-import Header from '../components/header';
-import Chip from '../components/chip';
-import { DEVICES, TYPES, SEVERITIES, MODES } from '../data/mockdata';
+import Header from '../components/Header';
+import Chip from '../components/Chip';
+import { DEVICES, TYPES, SEVERITIES, MODES } from '../data/mockData';
 
 // หน้า 3: วิเคราะห์ปัญหา
 export default function AnalyzeScreen({

@@ -12,7 +12,7 @@ import {
   Alert,
 } from 'react-native';
 import { s } from '../styles';
-import { SEVERITIES } from '../data/mockdata';
+import { SEVERITIES } from '../data/mockData';
 import { fetchHistory, deleteHistory, updateHistory } from '../api/history';
 
 const sevLabel = (key) => {
